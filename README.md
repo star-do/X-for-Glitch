@@ -69,7 +69,7 @@
 
 ## Argo Json 的获取
 
-用户可以通过 Cloudflare Json 生成网轻松获取: https://fscarmen.cloudflare.now.cc
+用户可以通过 Cloudflare Json 生成网轻松获取: https://1.cloudflare.now.cc
 
 <img width="842" alt="image" src="https://user-images.githubusercontent.com/62703343/234733074-397bad30-266b-4719-898a-a760a3f0331a.png">
 
