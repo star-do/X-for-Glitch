@@ -54,7 +54,7 @@
   | <URL>/listen | 查看后台监听端口 |
   | <URL>/test   | 测试是否为只读系统 |  
 
-* 前往 [Glitch](https://glitch.com/) 注册账户，然后点击右边按钮 =====> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/fscarmen2/X-for-Glitch)
+* 前往 [Glitch](https://glitch.com/) 注册账户，然后点击右边按钮 =====> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/star-do/X-for-Glitch)
 
 <img width="1092" alt="image" src="https://user-images.githubusercontent.com/92626977/236652842-9f2d644a-f8e3-4b5f-ab7f-45d6309a6642.png">
 
@@ -105,11 +105,11 @@
   
 <img width="1643" alt="image" src="https://user-images.githubusercontent.com/92626977/235453084-a8c55417-18b4-4a47-9eef-ee3053564bff.png">
 
-<img width="1667" alt="image" src="https://github.com/fscarmen2/X-for-Glitch/assets/92626977/f124705a-04cc-470b-9781-c56eb2f8d361">
+<img width="1667" alt="image" src="https://github.com/star-do/X-for-Glitch/assets/92626977/f124705a-04cc-470b-9781-c56eb2f8d361">
   
-<img width="1431" alt="image" src="https://github.com/fscarmen2/X-for-Glitch/assets/92626977/fb0272a0-22bf-4ea2-a985-21cb9384cf4d">
+<img width="1431" alt="image" src="https://github.com/star-do/X-for-Glitch/assets/92626977/fb0272a0-22bf-4ea2-a985-21cb9384cf4d">
 
-<img width="1527" alt="image" src="https://github.com/fscarmen2/rrr/assets/92626977/91cece0d-cc61-4681-8eae-03f961a16976">
+<img width="1527" alt="image" src="https://github.com/star-do/rrr/assets/92626977/91cece0d-cc61-4681-8eae-03f961a16976">
 
 
 ## 鸣谢下列作者的文章和项目:
